@@ -1,4 +1,4 @@
-# Learn Data Analysis
+# Learn Python
 
 This repository is my collection of practical Data Analysis Jupyter notebooks and reusable code for learning and applying data analysis.
 
